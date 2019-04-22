@@ -1,0 +1,5 @@
+{
+  "name": "ruby_postbuild_pass",
+  "private": true,
+  "dependencies": {}
+}
